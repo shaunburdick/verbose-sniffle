@@ -1,0 +1,31 @@
+---
+schema: banana/01/bundle
+version: '1.0'
+type: bundle
+name: 'avacado'
+title: 'jeans'
+description: 'turkish delights'
+image_base64:
+image_file:  'images/rick-roll.png'
+actors_definitions: lib
+dependencies:
+  git:
+  pip:
+    - oauthlib==2.0.0
+    - requests==2.11.1
+    - requests-oauthlib==0.6.2
+    - six==1.10.0
+  apt:
+repository:
+  type: git
+  url: git+https://github.com/shaunburdick/verbose-sniffle.git
+keywords:
+  - foo
+  - bar
+  - fizz
+  - buzz
+author: Abraham Lincoln
+license: MIT
+bugs:
+  url: https://github.com/shaunburdick/verbose-sniffle/issues
+homepage: https://github.com/shaunburdick/verbose-sniffle#readme
