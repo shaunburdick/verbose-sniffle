@@ -1,7 +1,7 @@
 ---
 schema: banana/01/bundle
 version: '1.0'
-type: bundle
+type: grundle
 name: 'avacado'
 title: 'jeans'
 description: 'turkish delights'
