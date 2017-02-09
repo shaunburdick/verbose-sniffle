@@ -1,9 +1,9 @@
 ---
 schema: banana/01/bundle
 version: '1.0'
-type: grundle
-name: 'avacado'
-title: 'jeans'
+type: bundle
+name: 'verbose-sniffle'
+title: 'Verbose Sniffle'
 description: 'turkish delights'
 image_base64:
 image_file:  'images/rick-roll.png'
